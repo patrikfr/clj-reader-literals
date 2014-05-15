@@ -1,4 +1,4 @@
-# cljtestbench
+# clj-reader-literals
 
 Testing Clojure reader literals
 
